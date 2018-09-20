@@ -1,1 +1,1 @@
-# collatz
+# collatz数列
